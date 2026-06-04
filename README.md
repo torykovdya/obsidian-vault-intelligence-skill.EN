@@ -1,0 +1,1 @@
+# obsidian-vault-intelligence-skill.EN
