@@ -320,27 +320,17 @@ RECOMMENDATIONS (prioritized by impact):
 
 ## AI Creator Lens — Special Enrichments
 
-When analyzing notes for AI enthusiasts / automation builders, apply this extra lens on top of standard analysis:
+Use these three questions to decide
+which opportunity patterns deserve attention.
 
-### The "Build It" Test
-For every concept cluster: "Could this become a tool, agent, or workflow?"
-- Identify the automation core: input → process → output
-- Suggest the minimal implementation stack
-- Flag concepts that are "manually painful" (= high automation ROI)
-- Look for phrases in notes: "every week I manually...", "I wish there was a tool...", "it takes me hours to..."
+Build It:
+Could this cluster become a tool, workflow, or system?
 
-### The "Teach It" Test
-For every deep cluster: "Could this become content?"
-- Is this knowledge rare enough to be valuable to others?
-- What's the entry point for a beginner audience?
-- What's the provocative angle for an expert audience?
-- Use the Content Types table from `ai-creator-taxonomy.md` to match note density → format
+Teach It:
+Could this cluster become content, education, or media?
 
-### The "Compound It" Test
-*"The Slip Box becomes more valuable the more it grows — like compound interest."* — Ahrens
-- Which two clusters create unexpected value when combined? (use Rarity Matrix)
-- Which note is a "node" (connects many clusters)?
-- Which insight, if developed, changes the trajectory most?
+Compound It:
+Does this cluster create unusual value when combined with another cluster?
 
 ---
 
