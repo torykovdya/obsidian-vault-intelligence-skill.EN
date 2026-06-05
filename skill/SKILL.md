@@ -254,6 +254,14 @@ TOP 3 AUTOMATION OPPORTUNITIES:
 
 *"We co-evolve with our Slip Box. Learning begets learning."* — Ahrens
 
+[SPECULATIVE]
+
+Forecasts are hypotheses based on current note density,
+knowledge patterns, and observed trajectories in the vault.
+
+They are not market predictions and should be treated as
+directional signals, not promises.
+
 Use the **Growth Archetypes** from `references/opportunity-patterns.md` (Deepener / Connector / Builder / Teacher) to identify which path fits this vault, then project forward:
 
 ```
@@ -262,23 +270,25 @@ Use the **Growth Archetypes** from `references/opportunity-patterns.md` (Deepene
 Growth archetype: [Deepener / Connector / Builder / Teacher]
 Why: [evidence from vault]
 
-IF you continue at current pace and fill the identified gaps:
+IF current learning patterns continue and the identified gaps are addressed:
+[FORECAST] Month 1–2:
+[Specific action] → [Likely outcome]
 
-Month 1–2: [Specific action] → [specific outcome]
-Month 3–4: [Specific action] → [specific outcome]
-Month 5–6: [Specific action] → [specific outcome]
+[FORECAST] Month 3–4:
+[Specific action] → [Likely outcome]
+
+[FORECAST] Month 5–6:
+[Specific action] → [Potential outcome]
 
 WHO YOU'RE BECOMING:
   Now:      [accurate label based on vault]
   Month 3:  [specific intermediate milestone]
-  Month 6:  [concrete, named position in the market]
+  Month 6 (hypothesis):[likely emerging role based on current vault patterns]
 
 WHAT MAKES THIS CREDIBLE (cite vault evidence):
-  - You already have X permanent notes on [topic]
+  - You already have X permanent notes on [topic] — that's the top 5% of people writing about it
   - Your note density on [Y] grew fastest in the last [N] weeks
-  - The [A]+[B] combination is rare — most people in your niche only know one side
-```
-
+  - The [A]+[B] combination is rare: most people in your niche know only one
 ---
 
 ### Phase 5 — Vault Health Report
