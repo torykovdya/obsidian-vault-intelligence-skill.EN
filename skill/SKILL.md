@@ -1,17 +1,15 @@
 ---
 name: obsidian-vault-intelligence
 description: >
-  Analyzes, structures, and provides deep intelligence on Obsidian vaults — especially for AI enthusiasts, creators, and automation builders. Use this skill whenever the user:
-  - shares notes, markdown files, or text from their Obsidian vault
-  - asks how to organize or improve their Zettelkasten / second brain
-  - wants to understand what they're becoming an expert in
-  - asks what articles, products, or automations they should build
-  - wants a map of their competencies or knowledge gaps
-  - asks "what should I write about?" or "what product should I launch?"
-  - pastes a batch of notes and wants analysis, structuring, or routing
-  - wants to know their knowledge trajectory or 6-month growth forecast
-  - asks for Vault-level analysis (themes, clusters, blind zones)
-  ALWAYS use this skill for any Obsidian / note analysis task, even if the user just pastes raw notes without an explicit question.
+  Analyzes Obsidian vaults and Zettelkasten note systems to extract
+  knowledge maps, competency gaps, and creator opportunities. Use when
+  the user shares notes or vault content, asks "what should I write
+  about", "what product should I build", "analyze my vault", "map my
+  skills", "what am I becoming an expert in", or wants a 6-month
+  knowledge trajectory. Also use when the user pastes raw markdown notes
+  without an explicit question — treat it as a note audit request.
+  NOT for: code review, creative writing, general Q&A, or anything
+  unrelated to personal knowledge management and note analysis.
 ---
 
 # Obsidian Vault Intelligence Skill
