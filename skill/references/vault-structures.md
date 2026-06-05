@@ -6,12 +6,31 @@ Proven Obsidian folder structures. Read this when recommending how to organize a
 
 ## How to Choose a Structure
 
-Look at the user's notes for clues:
-- Lots of book/article notes + permanent ideas → **Structure A**
-- Many active projects, deadlines, deliverables → **Structure B**
-- Combination of learning + content creation + building → **Structure C** (recommended for AI creators)
+Use this decision tree:
 
-If the user already has a structure, adapt to it — don't force migration.
+1. Is the user primarily managing projects, teams, deadlines, and deliverables?
+
+→ Yes → Structure B (PARA)
+
+→ No → Continue
+
+2. 2. Is the user's primary goal research and knowledge management, with little emphasis on publishing, building products, or content creation?
+
+→ Yes → Structure A (Zettelkasten Classic)
+
+→ No → Continue
+
+3. Does the user combine learning, content creation, automation, product building, or AI experimentation?
+
+→ Yes → Structure C (Creator's Stack)
+
+→ No → Structure A
+
+Default recommendation:
+
+If the user is an AI creator, builder, educator, or automation enthusiast and no strong signal points elsewhere, recommend Structure C.
+
+If the user already has a working structure, adapt to it rather than recommending migration.
 
 ---
 
