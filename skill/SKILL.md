@@ -332,6 +332,7 @@ Could this cluster become content, education, or media?
 Compound It:
 Does this cluster create unusual value when combined with another cluster?
 
+Apply the matching opportunity patterns and the Rarity Matrix to identify the strongest opportunities.
 ---
 
 ## Output Templates
