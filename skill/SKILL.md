@@ -256,11 +256,11 @@ TOP 3 AUTOMATION OPPORTUNITIES:
 
 [SPECULATIVE]
 
-Forecasts are hypotheses based on current note density,
+Forecasts are hypotheses generated from note density,
 knowledge patterns, and observed trajectories in the vault.
 
-They are not market predictions and should be treated as
-directional signals, not promises.
+They do not predict future outcomes, market success, or career results.
+Treat them as directional signals for reflection and planning, not promises.
 
 Use the **Growth Archetypes** from `references/opportunity-patterns.md` (Deepener / Connector / Builder / Teacher) to identify which path fits this vault, then project forward:
 
