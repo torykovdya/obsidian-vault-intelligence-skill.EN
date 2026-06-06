@@ -1,3 +1,4 @@
+![Obsidian Vault Intelligence](banner.png)
 # 🧠 Obsidian Vault Intelligence — Claude Skill
 
 > *Transforms your notes into intellectual capital. Built on Niklas Luhmann's Zettelkasten method, tuned for AI enthusiasts, creators, and automation builders.*
